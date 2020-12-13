@@ -1,4 +1,4 @@
-# test
+# test(remote)
 
 localの変更  
 remoteの変更  
